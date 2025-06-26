@@ -3,6 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
+	<div class="text-3xl text-blue-500">Tailwind 작동 🎉</div>
   <router-view/>
 </template>
 
