@@ -1,0 +1,32 @@
+@font-face{
+    font-family : "Noto Sans KR";
+    font-style : "normal";
+    font-weight : 300;
+    src : 
+        location("Noto Sans KR"),
+        url('./fonts/NotoSansKR-Regular.ttf')
+}
+@font-face{
+    font-family : "Roboto";
+    font-style : "normal";
+    font-weight : 300;
+    src : 
+        location("Roboto"),
+        url('./fonts/Roboto-Thin.ttf')
+}
+@font-face{
+    font-family : "Roboto";
+    font-style : "normal";
+    font-weight : 400;
+    src : 
+        location("Roboto"),
+        url('./fonts/Roboto-Regular.ttf')
+}
+@font-face{
+    font-family : "Roboto";
+    font-style : "normal";
+    font-weight : 500;
+    src : 
+        location("Roboto"),
+        url('./fonts/Roboto-Medium.ttf')
+}
